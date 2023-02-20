@@ -20,7 +20,7 @@ const Search = () => {
           onChange={typing}
         />
       </div>
-      {img === "" ? null : <Sresult lol={img} />},
+      {img === "" ? null : <Sresult lol={img} />}
     </>
   );
 };
