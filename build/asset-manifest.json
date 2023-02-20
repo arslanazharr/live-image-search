@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/live-image-search/static/js/main.b7078678.js",
+    "index.html": "/live-image-search/index.html",
+    "main.b7078678.js.map": "/live-image-search/static/js/main.b7078678.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b7078678.js"
+  ]
+}

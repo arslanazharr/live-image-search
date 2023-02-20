@@ -4,7 +4,9 @@ import Search from "./Search";
 const App = () => {
   return (
     <>
-      <h1 style={{ textAlign: "center" }}>Live Image Searcher</h1>
+      <h1 className="text-center" style={{ marginTop: "30px" }}>
+        Live Image Searcher
+      </h1>
       <Search />
     </>
   );

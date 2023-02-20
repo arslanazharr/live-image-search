@@ -3,8 +3,8 @@ import React from "react";
 const Sresult = (props) => {
   const pics = `https://source.unsplash.com/500x500/?${props.lol}`;
   return (
-    <div style={{ marginTop: "20px", textAlign: "center" }}>
-      <img src={pics} alt="results" />
+    <div className="text-center" style={{ marginTop: "30px" }}>
+      <img className="container w-75" src={pics} alt="results" />
     </div>
   );
 };

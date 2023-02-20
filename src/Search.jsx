@@ -11,7 +11,7 @@ const Search = () => {
 
   return (
     <>
-      <div style={{ marginTop: "40px", textAlign: "center" }}>
+      <div className="text-center" style={{ marginTop: "30px" }}>
         <input
           style={{ width: "200px", height: "41px" }}
           placeholder="Search Image"
